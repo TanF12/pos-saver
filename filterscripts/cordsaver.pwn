@@ -2,7 +2,7 @@
 
 #include <a_samp> // Biblioteca padrão do SA-MP
 #include <Pawn.CMD> // Processador de comandos; https://github.com/katursis/Pawn.CMD
-#include <filesystem> // Biblioteca que inclue a função fs_fcreate e outras auxiliares; https://github.com/FreddieCrew/samp-fs
+#include <filesystem> // Plugin que inclue a função fs_fcreate e outras auxiliares; https://github.com/FreddieCrew/samp-fs
 
 #if defined FILTERSCRIPT
 
